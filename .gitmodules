@@ -1,0 +1,3 @@
+[submodule "App/App/WeatherApp"]
+	path = App/App/WeatherApp
+	url = https://github.com/Jerome-Prakash-A/WeatherApp
